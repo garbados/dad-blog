@@ -1,10 +1,11 @@
 {
-	"title": "W O R D S",
-	"subtitle": "Essays, etc.",
-	"description": "My name is Diana. I make things but generally not very well. I put thoughts here.",
-	"links_title": "Me, elsewhere:",
+	"title": "Thayers dot org, etc.",
+	"subtitle": "Adventures; misadventures.",
+	"description": "This site collects the personal writing of Jim Thayer, edited by his daughter Diana.",
+	"links_title": "Other places:",
 	"links": {
-		"Mastodon": "https://friend.camp/@garbados",
-		"GitHub": "https://github.com/garbados"
+		"thayers.org": "https://thayers.org",
+		"Forest Hiker": "https://foresthiker.com",
+		"Diana": "https://blog.bovid.space"
 	}
 }

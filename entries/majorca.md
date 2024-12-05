@@ -1,8 +1,8 @@
 title: Mallorca
 description: Adventures of a young Jimmy.
 tags:
-- memoir
-created_at: 2024-12-05T05:47:25.877Z
+- memoirs
+order: 0
 
 # Mallorca
 
@@ -130,7 +130,7 @@ One memory in particular stands out.  It must’ve been after my normal bedtime,
 
 Pepe was busily fiddling around with one of the storm lanterns we used when the winter storms cut our electricity. A tiny butterfly of flame fluttered weakly as Pepe replaced the glass mantle. A few moments later he had the lantern burning brightly. Carrying the lantern to the seaward side of the balcony, Pepe began to swing the lantern back and forth. Every so often he would pause to peer out towards the entrance of the cove. Finally, after what seemed an age Pepe whispered something to my father, and he, too, began to scan the dark horizon. Pepe reached down and held me up so I could see over the parapet. There, near the entrance I glimpsed a tiny light bobbing frantically on the dark waves.  Pepe resumed waving the lantern back and forth until it was clear that the boat had spotted our signal. Taking me by the hand we descended to the ground floor and continued down a path to the shore.
 
-<img src="https://www.thayers.org/wp-content/uploads/2024/05/Mallorca-photo-by-Rolf-Zimmer--300x225.webp" alt="" width="300" height="225" />
+<img src="https://www.thayers.org/wp-content/uploads/2014/06/Majorca-photo-by-Rolf-Zimmer-.jpg" alt="" width="300" height="225" />
 
 We stood there in the dark with the waves lapping at our feet for what felt like an eternity. Soon Eventually, I began to hear the noise of oar locks creaking rhythmically as a rowboat approached the beach.  Someone jumped out of the craft and came up the beach. Pepe went to meet him exchanging greetings in the ubiquitous Majorquin dialect. A list of items were discussed and substitutions relayed back to my father who stood just above the surf line holding me. Money exchanged hands and assurances conveyed regarding their return a week later whereupon the sailor turned and pushed the prow of the boat back out through the combers that were surging up the beach. In the gloom of darkness the figure jumped back aboard the craft and it soon soon disappeared into the surging water. In a few minutes even the squeaking of the oarlocks was swallowed up by the sizzling hiss of the sand surging up the beach.
 
