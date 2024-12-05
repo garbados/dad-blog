@@ -1,7 +1,7 @@
 {
-  "name": "garbados-blog",
-  "description": "Words as thought by meat.",
-  "homepage": "https://garbados.github.io/my-blog",
+  "name": "dad-blog",
+  "description": "Words from my dad.",
+  "homepage": "https://garbados.github.io/dad-blog",
   "version": "1.0.0-beta",
   "private": true,
   "scripts": {
